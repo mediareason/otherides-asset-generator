@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Amalfi",
+    "archetype": "Noble Planners",
+    "keywords": [
+      "luxury",
+      "elegance",
+      "long-term vision",
+      "refinement",
+      "high society"
+    ],
+    "design_traits": {
+      "materials": [
+        "crystalline bodywork",
+        "gold trim",
+        "pearl enamel"
+      ],
+      "style": "streamlined and sculpted",
+      "aesthetic_influences": [
+        "The Culture",
+        "Dune",
+        "Blade Runner (corporate elite)"
+      ]
+    },
+    "vehicle_themes": [
+      "regal racers",
+      "hover-inspired tech",
+      "precision over power"
+    ]
+  },
+  {
+    "name": "Raven Coats",
+    "archetype": "Stealth Tacticians",
+    "keywords": [
+      "secrecy",
+      "strategy",
+      "trickery",
+      "ambush",
+      "deception"
+    ],
+    "design_traits": {
+      "materials": [
+        "matte black plating",
+        "bioluminescent accents",
+        "tactical armor"
+      ],
+      "style": "asymmetrical and agile",
+      "aesthetic_influences": [
+        "Firefly",
+        "rogue archetypes",
+        "Deadfire"
+      ]
+    },
+    "vehicle_themes": [
+      "stealth buggies",
+      "adaptive racers",
+      "mist-cloaked muscle"
+    ]
+  },
+  {
+    "name": "United Welders",
+    "archetype": "Industrial Builders",
+    "keywords": [
+      "resilience",
+      "rebellion",
+      "mechanical grit",
+      "utility",
+      "raw steel"
+    ],
+    "design_traits": {
+      "materials": [
+        "riveted iron",
+        "patchwork armor",
+        "burnt metal"
+      ],
+      "style": "brutalist and practical",
+      "aesthetic_influences": [
+        "The Expanse",
+        "Mad Max",
+        "Arcane (Zaun)"
+      ]
+    },
+    "vehicle_themes": [
+      "bolt-armored muscle",
+      "grinder rigs",
+      "forged battle cars"
+    ]
+  },
+  {
+    "name": "Scion",
+    "archetype": "Corporate Killers",
+    "keywords": [
+      "precision",
+      "speed",
+      "neon",
+      "control",
+      "cutthroat"
+    ],
+    "design_traits": {
+      "materials": [
+        "carbon fiber",
+        "reflective casings",
+        "glasslike panels"
+      ],
+      "style": "sleek and angular",
+      "aesthetic_influences": [
+        "Cyberpunk 2077",
+        "Neuromancer",
+        "corporate hypercars"
+      ]
+    },
+    "vehicle_themes": [
+      "stealth-tech racers",
+      "smartframe muscle",
+      "electric predators"
+    ]
+  },
+  {
+    "name": "Kerr Org",
+    "archetype": "Naturebound Dualists",
+    "keywords": [
+      "earth",
+      "balance",
+      "growth",
+      "biotech",
+      "primal"
+    ],
+    "design_traits": {
+      "materials": [
+        "bark plating",
+        "knotted vines",
+        "dino-scale textures"
+      ],
+      "style": "organic and living",
+      "aesthetic_influences": [
+        "Neverending Story",
+        "Willow",
+        "eco-warriors"
+      ]
+    },
+    "vehicle_themes": [
+      "living buggies",
+      "biomechs",
+      "symbiotic racers"
+    ],
+    "subfactions": [
+      {
+        "name": "Protectors",
+        "focus": "defense and harmony",
+        "aesthetic": "natural elegance, grown design"
+      },
+      {
+        "name": "Warlike Cultivars",
+        "focus": "DNA splicing and beast-tech",
+        "aesthetic": "feral mutations, hybrid monsters"
+      }
+    ]
+  },
+  {
+    "name": "Apostates",
+    "archetype": "Chaotic Zealots",
+    "keywords": [
+      "fire",
+      "anarchy",
+      "madness",
+      "ritual",
+      "entropy"
+    ],
+    "design_traits": {
+      "materials": [
+        "rusted steel",
+        "bones",
+        "charred surfaces"
+      ],
+      "style": "jagged and chaotic",
+      "aesthetic_influences": [
+        "Warhammer 40K",
+        "Reavers",
+        "Mobius-style apocalypse"
+      ]
+    },
+    "vehicle_themes": [
+      "skull-rigged drag cars",
+      "molten war buggies",
+      "ritual machines"
+    ]
+  }
+]
